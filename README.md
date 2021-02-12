@@ -12,10 +12,14 @@ Programa skirta išvesti įrėmintą pasisveikinimą su vartotojo vardu.
 * Pasisveikinimas su vardu išvedamas pasirinkto dydžio rėmelyje.
 
 
-## Įdiegimo ir paleidimo instrukcija ##
+## Įdiegimo instrukcija ##
 * Atsisiųskite norimą programos versiją (rekomenduojama atsisiųsti naujausią - v1.0 versiją) iš [Releases](https://github.com/aistestonciute/1_uzd/releases) aplanko.
 * Išarchyvuokite parsisiųstą failą.
 * Paleiskite main.cpp programą naudojantis C++ IDE (pvz. CodeBlocks arba Visual Studio) arba per komandinę eilutę.
+
+## Veikimo instrukcija ##
+* Įveskite savo vardą vardininko linksniu. Jei įvedėte neteisingus simbolius, įveskite vardą iš naujo.
+* Įveskite rėmelio ilgį (eilučių skaičių) ir plotį. Jei neteisingai įvedėte šiuos skaičius, įveskite juos iš naujo.
 
 ## Versijos ##
 
