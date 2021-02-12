@@ -18,18 +18,11 @@ int main()
 
     line3 = "* " + mainLine + name + "! *";
 
-    line4 = "*";
-    line4.append(mainLine.length() + name.length() + 3,' ');
-    line4.append("*");
-
-    line5.append(mainLine.length() + name.length() + 5,'*');
-
-
     cout << line1 << endl;
     cout << line2 << endl;
     cout << line3 << endl;
-    cout << line4 << endl;
-    cout << line5 << endl;
+    cout << line2 << endl;
+    cout << line1 << endl;
 
 
     return 0;
