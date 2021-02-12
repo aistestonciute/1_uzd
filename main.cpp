@@ -10,7 +10,19 @@ int main()
     cout << "Iveskite varda: " << endl;
     cin >> name;
 
-    if (name[name.length() - 1] == 's') mainLine = "Sveikas, ";
+    if (name[name.length() - 1] == 's')
+    {
+        mainLine = "Sveikas, ";
+       if (name[name.length() - 2] == 'u')
+       {
+           name[name.length() - 2] = 'a';
+           name[name.length() - 1] = 'u';
+       }
+       else if (name[name.length() - 2] == 'a') name[name.length() - 1] = 'i';
+       else name.resize(name.length() - 1);
+    }
+
+
     else mainLine = "Sveika, ";
 
     line1.append(mainLine.length() + name.length() + 5,'*');
