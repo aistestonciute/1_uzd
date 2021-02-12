@@ -23,7 +23,7 @@ Programa skirta išvesti įrėmintą pasisveikinimą su vartotojo vardu.
 
 ## Versijos ##
 
-* [v1.0] () Pridedamas README.md failas. Programa išveda įrėmintą vardą su pasisveikinimu pagal visus veikimo principus.
+* [v1.0](https://github.com/aistestonciute/1_uzd/releases/tag/v1.0) Pridedamas README.md failas. Programa išveda įrėmintą vardą su pasisveikinimu pagal visus veikimo principus.
 * [v0.7](https://github.com/aistestonciute/1_uzd/releases/tag/v0.7) Pagrindinė funkcija išskirstyta į mažas funkcijas. Kintamieji width ir length sukeisti vietomis (patogesnis ir logiškesnis kodas). Iš vartotojo pusės ši versija niekuo nesiskiria nuo v0.6.
 * [v0.6](https://github.com/aistestonciute/1_uzd/releases/tag/v0.6) Vartotojo įvestas vardas pasisveikinime visada pradedamas iš didžiosios raidės. Vartotojas gali įvesti rėmelio plotį ir ilgį (eilučių skaičių).
 * [v0.5](https://github.com/aistestonciute/1_uzd/releases/tag/v0.5) Programa patikrina ar vartotojo įvestas vardas turi neleistinų simbolių (visi simboliai, kurie nėra raidės yra neleistini). Jei taip, tuomet programa išveda klaidą ir paprašo vartotojo įvesti vardą iš naujo.
